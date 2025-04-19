@@ -2,7 +2,7 @@
 
 **A sleek, modern portfolio for a frontend dev who loves clean code & smooth animations!**  
 
-✨ **[Live Demo]([https://scadower.github.io/Dev-Folio/])** |
+✨ **[Live Demo](https://scadower.github.io/Dev-Folio/)** |
 
 ---
 
