@@ -75,8 +75,10 @@ Found a bug? Have a cool idea? **Open an issue or PR!**
 ---
 
 **Let’s connect!**  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Scadower)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yousefmarghny@gmail.com)  
+
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Scadower) 
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yousefmarghny@gmail.com)  
 
 ---
 
